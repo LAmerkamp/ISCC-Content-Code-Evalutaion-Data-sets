@@ -20,3 +20,7 @@ Pillow: https://pillow.readthedocs.io/en/stable/
 Pandas: https://github.com/pandas-dev/pandas
 
 Plotly: https://plotly.com/python/
+
+## Data set
+
+https://doi.org/10.5281/zenodo.14356379
